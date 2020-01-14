@@ -12,6 +12,7 @@
   .friend__avatar.g-avatar {
     width: 70px;
   }
+  
   .friend__avatar.m-avatar {
     width: 60px;
   }
@@ -58,4 +59,13 @@
   
   .friend__now-listening i{
     font-size: 12px;
+  }
+
+  .friend__add-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    padding: 10px 15px;
+    border-radius: 5px;
   }
